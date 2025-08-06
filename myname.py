@@ -1,2 +1,2 @@
 def get_name():
-    return "Sam"
+    return "Sam!"
